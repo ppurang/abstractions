@@ -1,6 +1,6 @@
 # Abstractions
 
-This repository holds the presentation and the code for a talk given as part of the [Goto Night Berlin ](https://secure.trifork.com/berlin-2014/freeevent/index.jsp?eventOID=6508). The presentation is in the folder named presentation, `abstractions.html` and a set of quotes on Abstractions can be seen in `quotes.html` also in the same folder.
+This repository holds the presentation and the code for a talk given at the [Goto Night Berlin ](https://secure.trifork.com/berlin-2014/freeevent/index.jsp?eventOID=6508). The presentation is in the folder named presentation, `abstractions.html` and a set of quotes on Abstractions can be seen in `quotes.html` also in the same folder.
 
 This is also an sbt project with the source under `src/main/scala`. An `sbt console` session (REPL session) might look like this 
 
@@ -74,7 +74,7 @@ scala> SemigroupProps.laws[Int].check
 
 
 
-The source is organized into type-classes representing the various abstractions. `Sums` includes the `sum` used as a vehicle to introduce the   
+The source is organized into type-classes representing the various abstractions. `Sums` includes the `sum` used as a vehicle to introduce the various abstractions.    
 
 
 
