@@ -1,5 +1,11 @@
 # Abstractions
 
+## Hosted versions
+
+The presentation can be founded at [Abstractions](http://piyush.purang.net/abstr/abstractions.html?gthb) and the quotes on abstractions are  at [Quotes on Abstractions](http://piyush.purang.net/abstr/quotes.html?gthb).
+
+## This repo
+
 This repository holds the presentation and the code for a talk given at the [Goto Night Berlin ](https://secure.trifork.com/berlin-2014/freeevent/index.jsp?eventOID=6508). The presentation is in the folder named presentation, `abstractions.html` and a set of quotes on Abstractions can be seen in `quotes.html` also in the same folder.
 
 This is also an sbt project with the source under `src/main/scala`. An `sbt console` session (REPL session) might look like this 
